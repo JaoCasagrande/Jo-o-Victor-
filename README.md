@@ -4,7 +4,7 @@
 # 😎O que me interesso
 Me interesso por I.A e gosto de acompanhar sua evolução. 
 
-#🤖 Neste Link mostrará o poder da i.a
+# 🤖 Neste Link mostrará o poder da i.a
 https://kub.sh/0c8e48
 
 # 🤓Atualmente estudando
